@@ -1,0 +1,19 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.form-label{
+    font-weight: 500;
+}
+
+.btn-primary{
+    width: 120px; 
+    background-color: #c49b06ca; 
+    border: none; 
+    border-radius: 10px;
+}
+
+.btn-outline-dark{
+    width: 170px;
+    border-radius: 9px;
+}

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500;700;900&display=swap" rel="stylesheet">
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <link href="/static/style.css" rel="stylesheet">
+
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <div class="container py-5">
+
+    <div class="text-center mb-5">
+      <h1 class="fw-bold">AI Debate Topic Analyzer</h1>
+      <p>
+        This tool helps you break down any debate motion using AI. 
+        Select your format, and receive arguments for both sides (Gov and Opp), topic difficulty, 
+        categories, and optional resources — all in seconds!
+      </p>
+    </div>
+
+    <form method="POST" action="/analyze">
+      <div class="mb-4">
+        <label for="motion" class="form-label fw-semibold">Debate Motion</label>
+        <input class="form-control" type="text" name="motion" id="motion" placeholder="e.g. This House would ban private universities" required>
+      </div>
+
+      <div class="mb-4">
+        <label for="format" class="form-label fw-semibold">Debate Format</label>
+        <select class="form-select" name="format" id="format" required>
+          <option selected disabled value="">Select format</option>
+          <option value="WSDC">World Schools Debating Format (WSDC)</option>
+          <option value="BP">British Parliamentary (BP)</option>
+          <option value="Public Forum">Public Forum (PF)</option>
+        </select>
+      </div>
+
+      <div class="mb-4">
+        <h5 class="fw-semibold">Include the following in your analysis:</h5>
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" name="include_readings" id="check1">
+          <label class="form-check-label" for="check1">
+            Suggested readings (articles, books, research papers)
+          </label>
+        </div>
+        <div class="form-check mt-2">
+          <input class="form-check-input" type="checkbox" name="include_video" id="check2">
+          <label class="form-check-label" for="check2">
+            Debate round video in the same category
+          </label>
+        </div>
+      </div>
+
+      <div class="container p-3">
+        <button type="submit" class="btn btn-primary" id="generateBtn">Generate!</button>
+      </div>
+
+      <div id="loadingSpinner" style="display: none;" class="mt-3">
+        <div class="spinner-border text-primary" role="status"></div>
+        <p class="mt-2">Analyzing your motion... Please wait.</p>
+      </div>
+
+    </form>
+  </div>
+
+  <script>
+    const form = document.querySelector("form");
+    const button = document.getElementById("generateBtn");
+    const spinner = document.getElementById("loadingSpinner");
+  
+    form.addEventListener("submit", function (e) {
+      button.disabled = true;
+      button.style.display = "none";
+      spinner.style.display = "block";
+    });
+  </script>
+  
+</body>
