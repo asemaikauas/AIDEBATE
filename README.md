@@ -12,14 +12,8 @@
   <p align="center">
     An AI assistant for debate motion analysis. 
     <br />
-    <a href="https://github.com/yourusername/ai-debate-topic-analyzer"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="#demo">View Demo</a>
     ·
-    <a href="https://github.com/yourusername/ai-debate-topic-analyzer/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/yourusername/ai-debate-topic-analyzer/issues">Request Feature</a>
   </p>
 </div>
 
