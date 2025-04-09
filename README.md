@@ -178,7 +178,7 @@ Contributions are what make the open source world amazing!
 ## Contact
 
 Asemai – kauasasemai05@gmail.com  
-Project Link: [https://github.com/asemaikauas/AIDEBATE](https://github.com/asemaikauas/AIDEBATE)
+Project Link: [AIDEBATE](https://github.com/asemaikauas/AIDEBATE)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
