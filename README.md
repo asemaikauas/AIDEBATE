@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/yourusername/ai-debate-topic-analyzer">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="120" height="40">
   </a> 
 
   <h3 align="center">AI Debate Topic Analyzer</h3>
