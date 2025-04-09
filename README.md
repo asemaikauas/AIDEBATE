@@ -189,6 +189,7 @@ Project Link: [https://github.com/asemaikauas/AIDEBATE](https://github.com/asema
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * [OpenAI API](https://platform.openai.com/)
 * [Bootstrap](https://getbootstrap.com)
+* [Flask](https://flask.palletsprojects.com/en/stable/)
 * [Font Awesome](https://fontawesome.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
