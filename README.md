@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/yourusername/ai-debate-topic-analyzer">
+  <a href="https://github.com/asemaikauas/AIDEBATE">
     <img src="images/logo.png" alt="Logo" width="120" height="40">
   </a> 
 
