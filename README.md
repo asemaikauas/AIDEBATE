@@ -190,6 +190,3 @@ Project Link: [github.com/asemaikauas/ai-debate-topic-analyzer](https://github.c
 
 <p align="right">(<a href="#acknowledgments">back to top</a>)</p>
 
-
-
----
