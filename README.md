@@ -109,7 +109,7 @@ You’ll need:
    flask run
    ```
 
-6. Visit `http://localhost:5000`
+6. Visit `http://127.0.0.1:5000`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
