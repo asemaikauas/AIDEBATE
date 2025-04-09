@@ -125,7 +125,7 @@ You’ll need:
 
 ---
 
-## 🧠 Usage
+## Usage
 
 1. Input a debate motion.
 2. Choose your format: BP / WSDC / PF.
@@ -144,7 +144,7 @@ You’ll need:
 
 ---
 
-## 🎬 Demo
+## Demo
 
 Watch a quick walkthrough of the AI Debate Topic Analyzer:
 
@@ -154,7 +154,7 @@ Watch a quick walkthrough of the AI Debate Topic Analyzer:
 
 ---
 
-## 🛣️ Roadmap
+## Roadmap
 
 - [ ] Add Lincoln-Douglas format
 - [ ] Save motion history per user
@@ -165,7 +165,7 @@ Watch a quick walkthrough of the AI Debate Topic Analyzer:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are what make the open source world amazing!  
 
@@ -182,7 +182,7 @@ Contributions are what make the open source world amazing!
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
@@ -190,7 +190,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 📬 Contact
+## Contact
 
 Asemay – asemay@example.com  
 Project Link: [github.com/yourusername/ai-debate-topic-analyzer](https://github.com/yourusername/ai-debate-topic-analyzer)
@@ -199,7 +199,7 @@ Project Link: [github.com/yourusername/ai-debate-topic-analyzer](https://github.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * [OpenAI API](https://platform.openai.com/)
