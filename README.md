@@ -26,7 +26,7 @@
 ---
 
 <details>
-  <summary>📑 Table of Contents</summary>
+  <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a>
       <ul>
@@ -51,7 +51,7 @@
 
 ---
 
-## 📌 About The Project
+## About The Project
 
 [![Product Screenshot][product-screenshot]](https://example.com)
 
@@ -70,7 +70,7 @@ This tool is designed for students, debate clubs, and educators who want to save
 
 ---
 
-### 🔧 Built With
+### Built With
 
 * [Flask](https://flask.palletsprojects.com/)
 * [OpenAI API](https://platform.openai.com/)
@@ -82,7 +82,7 @@ This tool is designed for students, debate clubs, and educators who want to save
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
