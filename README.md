@@ -105,7 +105,7 @@ You’ll need:
    OPENAI_API_KEY=your-api-key
    ```
 
-5. Run the app  
+5. Through the terminal, run the app  
    ```bash
    flask run
    ```
