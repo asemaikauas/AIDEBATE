@@ -192,8 +192,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Asemay – asemay@example.com  
-Project Link: [github.com/yourusername/ai-debate-topic-analyzer](https://github.com/yourusername/ai-debate-topic-analyzer)
+Asemai – kauasasemai05@gmail.com  
+Project Link: [github.com/asemaikauas/ai-debate-topic-analyzer](https://github.com/asemaikauas/ai-debate-topic-analyzer)
 
 <p align="right">(<a href="#contact">back to top</a>)</p>
 
