@@ -177,7 +177,7 @@ Contributions are what make the open source world amazing!
 ## Contact
 
 Asemai – kauasasemai05@gmail.com  
-Project Link: [github.com/asemaikauas/ai-debate-topic-analyzer](https://github.com/asemaikauas/ai-debate-topic-analyzer)
+Project Link: [https://github.com/asemaikauas/AIDEBATE](https://github.com/asemaikauas/AIDEBATE)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
