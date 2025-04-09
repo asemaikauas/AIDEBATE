@@ -84,8 +84,8 @@ You’ll need:
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/yourusername/ai-debate-topic-analyzer.git
-   cd ai-debate-topic-analyzer
+   git clone https://github.com/asemaikauas/AIDEBATE.git
+   cd AIDEBATE
    ```
 
 2. Set up a virtual environment  
