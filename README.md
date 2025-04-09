@@ -59,10 +59,8 @@
 
 - Motion difficulty level and topic category
 - 3 strong arguments for both Government and Opposition
-- Counterpoints for deeper analysis
 - Suggested readings and debate video links (optional)
 - Format-specific outputs (BP, WSDC, Public Forum)
-- Downloadable PDF reports
 
 This tool is designed for students, debate clubs, and educators who want to save time and improve motion prep.
 
@@ -137,7 +135,8 @@ You’ll need:
 - Topic difficulty (Easy/Medium/Hard)
 - Category tags (e.g., Ethics, IR, Economics)
 - Structured arguments for both sides
-- Counterpoints, confidence score, and extras
+- Suggested readings if selected 
+- Related YouTube Video if selected
 
 <p align="right">(<a href="#usage">back to top</a>)</p>
 
@@ -147,7 +146,7 @@ You’ll need:
 
 Watch a quick walkthrough of the AI Debate Topic Analyzer:
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the demo](https://img.youtube.com/vi/zewjy05VNL8/0.jpg)](https://www.youtube.com/watch?v=zewjy05VNL8)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
