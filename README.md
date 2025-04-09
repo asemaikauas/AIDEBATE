@@ -12,8 +12,8 @@
   <p align="center">
     An AI assistant for debate motion analysis. 
     <br />
-    <a href="#demo">View Demo</a>
-    ·
+    <br />
+    <a href="https://www.youtube.com/watch?v=zewjy05VNL8">View Demo</a>
   </p>
 </div>
 
@@ -46,8 +46,6 @@
 ---
 
 ## About The Project
-
-[![Product Screenshot][product-screenshot]](https://example.com)
 
 **AI Debate Topic Analyzer** is a web tool that helps debaters and educators get instant motion analysis. It uses OpenAI’s GPT to provide:
 
