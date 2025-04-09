@@ -129,7 +129,7 @@ You’ll need:
 - Suggested readings if selected 
 - Related YouTube Video if selected
 
-<p align="right">(<a href="#usage">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -151,7 +151,7 @@ Watch a quick walkthrough of the AI Debate Topic Analyzer:
 - [ ] User login & profile features
 - [ ] Multilingual motion support (Kazakh, Russian, etc.)
 
-<p align="right">(<a href="#roadmap">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -168,7 +168,7 @@ Contributions are what make the open source world amazing!
 4. Push and open a PR  
 5. 🌟 Star the project!
 
-<p align="right">(<a href="#contributing">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -177,7 +177,7 @@ Contributions are what make the open source world amazing!
 Asemai – kauasasemai05@gmail.com  
 Project Link: [github.com/asemaikauas/ai-debate-topic-analyzer](https://github.com/asemaikauas/ai-debate-topic-analyzer)
 
-<p align="right">(<a href="#contact">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -188,5 +188,5 @@ Project Link: [github.com/asemaikauas/ai-debate-topic-analyzer](https://github.c
 * [Bootstrap](https://getbootstrap.com)
 * [Font Awesome](https://fontawesome.com)
 
-<p align="right">(<a href="#acknowledgments">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
