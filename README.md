@@ -76,7 +76,6 @@ This tool is designed for students, debate clubs, and educators who want to save
 * [OpenAI API](https://platform.openai.com/)
 * [Bootstrap](https://getbootstrap.com)
 * [HTML/CSS/JS](https://developer.mozilla.org/)
-* [Fpdf](https://pyfpdf.github.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
