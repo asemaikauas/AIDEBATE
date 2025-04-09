@@ -146,7 +146,7 @@ You’ll need:
 
 Watch a quick walkthrough of the AI Debate Topic Analyzer:
 
-[![Watch the demo](https://img.youtube.com/vi/zewjy05VNL8/0.jpg)](https://www.youtube.com/watch?v=zewjy05VNL8)
+[![Watch the demo](https://img.youtube.com/vi/zewjy05VNL8/maxresdefault.jpg)](https://www.youtube.com/watch?v=zewjy05VNL8)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
