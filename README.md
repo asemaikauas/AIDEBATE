@@ -99,7 +99,8 @@ You’ll need:
    pip install -r requirements.txt
    ```
 
-4. Add your OpenAI API key to a `.env` file:  
+4. In the root of your project (same level as app.py), create a file named .env and add your OpenAI API key:
+
    ```
    OPENAI_API_KEY=your-api-key
    ```
