@@ -12,9 +12,6 @@
   <p align="center">
     An AI assistant for debate motion analysis. 
     <br />
-    <br />
-    <a href="https://debatelink-2.onrender.com/">Visit Website</a>
-    <br />
     <a href="https://www.youtube.com/watch?v=zewjy05VNL8">View Demo</a>
   </p>
 </div>
